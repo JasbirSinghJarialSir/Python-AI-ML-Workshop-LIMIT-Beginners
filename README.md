@@ -4,7 +4,7 @@ Repository for Python Workshop organized by the Department of Computer Science, 
 
 Organized by the **Department of Computer Science, LIMIT**  
 👨‍🏫 Coordinator: Prof. Jasbir Singh  
-📅 Duration: 26.07.2024
+📅 Duration: 5 Days | 26.07.2025 - 30.07.2025
 📍 Mode: Offline (Lab) | Language: English & Hindi
 
 ## 📘 Workshop Objectives
