@@ -1,0 +1,53 @@
+“Python for AI/ML: A Hands-on Workshop for Beginners”
+Conducted by: Department of Computer Science, LIMIT
+Workshop Coordinator: Prof. Jasbir Singh
+Date: 26.07.2025
+
+🗓️ Day 1 Summary: From C to Python – Introduction & Setup
+📌 Objective:
+To help students transition from C programming to Python, understand its relevance in AI/ML, and get hands-on experience with basic syntax and setup.
+
+🧠 Session Overview:
+🔹 1. Introduction to Python (Motivation & Relevance)
+Why Python is ideal for beginners and AI/ML applications.
+Comparison between C and Python.
+Highlighted Python's:
+Easy syntax & readability
+Dynamic typing
+Massive libraries and community support
+Applications in AI, ML, Data Science, Automation
+
+🔹 2. Python Environment Setup
+Installed Python (via Anaconda / Standalone)
+Set up IDEs: VS Code, Jupyter Notebook
+Verified Python installation (python --version)
+Ran first program: print("Hello, Python!")
+
+🔹 3. Basic Python Syntax & Variables
+Introduction to variables and data types
+Syntax differences from C (no semicolons, no type declaration)
+Naming conventions and best practices
+
+🔹 4. Input/Output in Python
+input() function for reading user input
+print() function for displaying output
+Type conversion: int(), float(), str()
+
+💻 Hands-on Code Practiced:
+Greeting Program – Name input and personalized greeting
+Simple Calculator – Taking two numbers and printing the sum
+Rectangle Area – Calculating area using user input
+
+📚 Assignments:
+Write a Python program to calculate the average of three numbers.
+Create a Python script that accepts your name, branch, and prints a formatted message.
+
+📝 Key Takeaways:
+Python is simpler and faster to code than C for many tasks.
+Students successfully installed the environment and ran basic scripts.
+Understood variable declaration, input/output handling, and dynamic typing.
+📁 Materials Uploaded to GitHub Repo:
+Slides: Slide_Day1.pdf
+Code Files: Code_Examples_Day1.ipynb
+Notes: Notes_Day1.md
+
