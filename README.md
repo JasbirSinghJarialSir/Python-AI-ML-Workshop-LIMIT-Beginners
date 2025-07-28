@@ -3,7 +3,7 @@ Repository for Python Workshop organized by the Department of Computer Science, 
 # Python for AI/ML: A Hands-on Workshop for Beginners
 
 Organized by the **Department of Computer Science, LIMIT**  
-👨‍🏫 Coordinator: Prof. Jasbir Singh  
+👨‍🏫 Convener: Prof. Jasbir Singh  
 📅 Duration: 5 Days | 26.07.2025 - 30.07.2025
 📍 Mode: Offline (Lab) | Language: English & Hindi
 
