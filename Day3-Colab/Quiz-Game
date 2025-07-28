@@ -1,0 +1,36 @@
+Activity 1: Python Quiz Game – Skill: Functions, Loops, Input/Output
+🧩 Description:
+Students will create an interactive Multiple Choice Quiz Game in Colab using Python where:
+
+Questions and options are stored in a dictionary/list.
+
+The user selects the answer by entering a number.
+
+Score is calculated and displayed.
+
+🔨 Key Concepts:
+input(), print(), if-else
+
+for loop
+
+Lists & dictionaries
+
+Functions (def)
+
+🖥️ Sample Output:
+kotlin
+Copy
+Edit
+Q1. What is the keyword for defining a function in Python?
+1. define
+2. def
+3. function
+4. fun
+
+Enter your answer (1-4): 2
+Correct!
+
+... Score: 4 out of 5
+⏱️ Duration: 45 minutes
+✅ Deliverable:
+Students will share their Colab notebook link and demonstrate the quiz in pairs.
